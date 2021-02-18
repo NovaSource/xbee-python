@@ -22,10 +22,10 @@ Install from Source
 -------------------
 
 You can install XBee Python library directly from the source file. To do
-so, extract the source code to your computer and, from its root
-directory, execute the following command::
-
-    $ python setup.py install
+so, extract the source code to your computer and execute the following commands::
+    
+    $ cd <path-to-xbee-python>
+    $ pip install .
 
 
 Documentation
